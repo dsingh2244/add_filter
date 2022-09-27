@@ -1,0 +1,30 @@
+canvas{
+    width: 600pt;
+    height: 350pt;
+    border: 1px dotted darkgreen;
+    margin: 10px 50px 10px 50px;
+  }
+  #can2{
+    width: 600pt;
+    height: 350pt;
+    margin-left: 50px;
+  }
+  h1{
+    font-family: fantasy;
+    color: teal;
+    border: 2px solid steelblue;
+    width: 460px;
+    margin-left: 50px;
+  }
+  #up{
+    margin-left: 720px;
+  }
+  p1{
+    margin-left: 545px;
+  }
+  #res{
+    margin-left: 780px;
+  }
+  body{
+    background-color: mistyrose;
+  }
